@@ -1,4 +1,4 @@
-### Hi there, these are the scripts used to analyze the supermode resonances of a Kac comb(CROW waveguide with finite and equispaced resonances). These scripts can also be used to analyze the pulse propogation and dispersion of such CROWs https://open.bu.edu/handle/2144/45166.
+### Scripts used to analyze the supermode resonances of a Kac combs. https://open.bu.edu/handle/2144/45166.
 
 <!--
 **manujks/manujks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
